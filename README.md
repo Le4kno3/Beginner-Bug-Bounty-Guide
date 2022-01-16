@@ -9,3 +9,5 @@ Bug Bounty Methodology (image format). The above image format will not have all
 https://github.com/Le4kno3/Beginner-Bug-Bounty-Guide/blob/main/how-to-start-bug-bounty.drawio
 
 Open it using https://app.diagrams.net/
+
+Medium Blog: 
