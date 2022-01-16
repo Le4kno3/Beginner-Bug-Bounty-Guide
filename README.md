@@ -10,4 +10,4 @@ https://github.com/Le4kno3/Beginner-Bug-Bounty-Guide/blob/main/how-to-start-bug-
 
 Open it using https://app.diagrams.net/
 
-Medium Blog: 
+Medium Blog: https://takshil-patil529.medium.com/beginner-bug-bounty-guide-365e4c00d730
